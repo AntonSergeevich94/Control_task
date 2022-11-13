@@ -39,22 +39,22 @@ void PrintArray(string [] array)
 {
     for (int i = 0; i < array.GetLength(0); i++)
     {
-        Console.Write($"{array[i]} ");
+        Console.Write($"{array[i]}, ");
     }
         Console.WriteLine();
 }
 
 string[] NewStringArray(string [] array, int size)
 {
-    int sizenewarray = 0;
+    int sizeNew = 0;
     for (int i = 0; i < size; i++)
     {
         if (array[i].Length <= 3) 
         {
-           sizenewarray = sizenewarray + 1;
+           sizeNew = sizeNew + 1;
         } 
     }
-    string[] arraynew = new string[sizenewarray];
+    string[] arraynew = new string[sizeNew];
     int j = 0;
     for (int i = 0; i < size; i++)
     {
