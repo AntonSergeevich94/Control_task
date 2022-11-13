@@ -1,0 +1,15 @@
+C:\Users\Anton\Desktop\ControlWorks\Control_1Q\bin\Debug\net6.0\Control_1Q.exe
+C:\Users\Anton\Desktop\ControlWorks\Control_1Q\bin\Debug\net6.0\Control_1Q.deps.json
+C:\Users\Anton\Desktop\ControlWorks\Control_1Q\bin\Debug\net6.0\Control_1Q.runtimeconfig.json
+C:\Users\Anton\Desktop\ControlWorks\Control_1Q\bin\Debug\net6.0\Control_1Q.dll
+C:\Users\Anton\Desktop\ControlWorks\Control_1Q\bin\Debug\net6.0\Control_1Q.pdb
+C:\Users\Anton\Desktop\ControlWorks\Control_1Q\obj\Debug\net6.0\Control_1Q.csproj.AssemblyReference.cache
+C:\Users\Anton\Desktop\ControlWorks\Control_1Q\obj\Debug\net6.0\Control_1Q.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anton\Desktop\ControlWorks\Control_1Q\obj\Debug\net6.0\Control_1Q.AssemblyInfoInputs.cache
+C:\Users\Anton\Desktop\ControlWorks\Control_1Q\obj\Debug\net6.0\Control_1Q.AssemblyInfo.cs
+C:\Users\Anton\Desktop\ControlWorks\Control_1Q\obj\Debug\net6.0\Control_1Q.csproj.CoreCompileInputs.cache
+C:\Users\Anton\Desktop\ControlWorks\Control_1Q\obj\Debug\net6.0\Control_1Q.dll
+C:\Users\Anton\Desktop\ControlWorks\Control_1Q\obj\Debug\net6.0\refint\Control_1Q.dll
+C:\Users\Anton\Desktop\ControlWorks\Control_1Q\obj\Debug\net6.0\Control_1Q.pdb
+C:\Users\Anton\Desktop\ControlWorks\Control_1Q\obj\Debug\net6.0\Control_1Q.genruntimeconfig.cache
+C:\Users\Anton\Desktop\ControlWorks\Control_1Q\obj\Debug\net6.0\ref\Control_1Q.dll
